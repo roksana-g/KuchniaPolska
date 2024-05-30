@@ -1,7 +1,8 @@
 # Zespół
 
 ## kierownik
-Roksana Gęsicka
+>Roksana Gęsicka
+
 ## kucharze
 |Osoba:              |stanowisko:        |
 |--------------------|-------------------|
@@ -14,6 +15,7 @@ Roksana Gęsicka
 |Eleonora Kowalska   |Główny kelner      |
 |Maria Kowalska      |Kelnerka           |
 ## dostawca
-Kevin Kowalski
+>Kevin Kowalski
+
 ## grafik
-Maciej Kowalski
+>Maciej Kowalski
