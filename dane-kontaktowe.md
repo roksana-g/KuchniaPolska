@@ -8,7 +8,10 @@
 kuchniapolska@gmail.com
 
 ## Godziny otwarcia
-Od poniedziałku do Niedzieli - Od 10 do 23
+Od poniedziałku do Niedzieli - Od 10 do 22
 
 ## Adres:
 ul. Stojałowskiego 44 Bielsko - Biała
+
+
+
