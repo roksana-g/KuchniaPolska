@@ -2,6 +2,10 @@
 
 ## kierownik
 
+## kucharze
+
+## kelnerzy
+
 ## dostawca
 
 ## grafik
