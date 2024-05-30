@@ -2,6 +2,7 @@
 
 ## Numer telefonu:
 +48 717 717 717
++48 818 818 818 (numer kierownika)
 
 ## Adres e-mail:
 kuchniapolska@gmail.com
