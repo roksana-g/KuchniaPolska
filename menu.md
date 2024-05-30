@@ -1,6 +1,6 @@
 # Menu
 ## Dania klasyczne
-<img src = "restauracja-img/Kluski śląskie.jpg" width = 500>
+<img src = "restauracja-img/Kluski śląskie.jpg" width = 200>
 
 |Lp. |Danie:                                                            |waga mięsa: |250 gram |300 gram |400 gram |
 |----|------------------------------------------------------------------|------------|---------|---------|---------|
@@ -15,7 +15,7 @@
 |9.  |Jadło drwala (gulasz wieprzowy, placki ziemniaczane, surówka)     |            |    -    |    -    |32 zl    |
 
 ## Pierogi
-<img src = "restauracja-img/Pierogi ruskie.jpg" witdth = 5>
+<img src = "restauracja-img/Pierogi - Polish dumplings.jpg" width = 200>
 
 |Lp. |Zupa:                                                             |Cena:       |
 |----|------------------------------------------------------------------|------------|
@@ -27,7 +27,7 @@
 |6.  |Pierogi żytnie z kaszą                                            |26 zł       |
 
 ## Dania jednogarnkowe
-<img src ="restauracja-img/Dania jednogarnkowe – Kardamonowy.jpg" width = 500>
+<img src ="restauracja-img/Dania jednogarnkowe – Kardamonowy.jpg" width = 200>
 
 |Lp. |Danie:                                                            |waga        |300 gram |400 gram |
 |----|------------------------------------------------------------------|------------|---------|---------|
@@ -37,7 +37,7 @@
 
 
 ## Zupy
-<img src ="restauracja-img/Rosół.jpg" width = 500>
+<img src ="restauracja-img/Rosół.jpg" width = 200>
 
 |Lp. |Zupa:                                                             |Cena:       |
 |----|------------------------------------------------------------------|------------|
@@ -47,7 +47,7 @@
 
 
 ## Napoje
-<img src ="restauracja-img/Homemade Kompot Drink (Slavic Fruit Beverage).jpg" width = 500>
+<img src ="restauracja-img/Homemade Kompot Drink (Slavic Fruit Beverage).jpg" width = 200>
 
 1. Kompot - 3 zł
 2. Coca-Cola - 8 zł
