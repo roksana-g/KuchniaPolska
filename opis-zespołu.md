@@ -1,7 +1,7 @@
 # Zespół
 
 ## kierownik
-Roksana Gęsicka
+Roksana Gęsicka,   Hanna Kowalska
 ## kucharze
 |Osoba:              |stanowisko:        |
 |--------------------|-------------------|
