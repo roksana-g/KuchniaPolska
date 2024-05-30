@@ -46,6 +46,11 @@
 |3.  |Grzybowa z makaronem                                              |16 zł       |
 
 
+## Dodatki
+1. Frytki - 8 zł
+2. Sos - 5 zł
+3. Kluski Śląskie - 12 zł
+
 ## Napoje
 <img src ="restauracja-img/Homemade Kompot Drink (Slavic Fruit Beverage).jpg" width = 200>
 
