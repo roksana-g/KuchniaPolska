@@ -1,6 +1,6 @@
 # Menu
 ## Dania klasyczne
-<img src = "restauracja-img/Kluski śląskie.jpg" width = 200>
+<img src = "restauracja-img/Kluski śląskie.jpg" width = 500>
 
 |Lp. |Danie:                                                            |waga mięsa: |250 gram |300 gram |400 gram |
 |----|------------------------------------------------------------------|------------|---------|---------|---------|
@@ -14,9 +14,20 @@
 |8.  |Stek z kurczaka (stek z kurczaka, frytki, mizeria)                |            |    -    |28 zł    |    -    |
 |9.  |Jadło drwala (gulasz wieprzowy, placki ziemniaczane, surówka)     |            |    -    |    -    |32 zl    |
 
+## Pierogi
+<img src = "restauracja-img/Pierogi ruskie.jpg" witdth = 5>
+
+|Lp. |Zupa:                                                             |Cena:       |
+|----|------------------------------------------------------------------|------------|
+|1.  |Pierogi ruskie                                                    |25 zł       |
+|2.  |Pierogi z mięsem                                                  |25 zł       |
+|3.  |Pierogi z serem                                                   |21 zł       |
+|4.  |Pierogi ze szpinakiem                                             |22 zł       |
+|5.  |Pierogi z jagodami                                                |25 zł       |
+|6.  |Pierogi żytnie z kaszą                                            |26 zł       |
 
 ## Dania jednogarnkowe
-<img src ="restauracja-img/Dania jednogarnkowe – Kardamonowy.jpg" width = 200>
+<img src ="restauracja-img/Dania jednogarnkowe – Kardamonowy.jpg" width = 500>
 
 |Lp. |Danie:                                                            |waga        |300 gram |400 gram |
 |----|------------------------------------------------------------------|------------|---------|---------|
@@ -26,7 +37,7 @@
 
 
 ## Zupy
-<img src ="restauracja-img/Rosół.jpg" width = 200>
+<img src ="restauracja-img/Rosół.jpg" width = 500>
 
 |Lp. |Zupa:                                                             |Cena:       |
 |----|------------------------------------------------------------------|------------|
@@ -36,7 +47,7 @@
 
 
 ## Napoje
-<img src ="restauracja-img/Homemade Kompot Drink (Slavic Fruit Beverage).jpg" width = 200>
+<img src ="restauracja-img/Homemade Kompot Drink (Slavic Fruit Beverage).jpg" width = 500>
 
 1. Kompot - 3 zł
 2. Coca-Cola - 8 zł
