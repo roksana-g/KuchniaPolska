@@ -47,6 +47,8 @@
 
 
 ## Dodatki
+<img src ="restauracja-img/Domowe frytki jak z McDonald's_ Sekret tkwi w jednej, dodatkowej czynności.jpg" width = 200>
+
 1. Frytki - 8 zł
 2. Sos - 5 zł
 3. Kluski Śląskie - 12 zł
