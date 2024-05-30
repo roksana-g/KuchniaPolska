@@ -1,2 +1,2 @@
 # KuchniaPolska
-Ten plik należy do gałęzi pierogi
+To strona KuchniPolskiej
