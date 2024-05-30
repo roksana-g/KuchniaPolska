@@ -3,6 +3,8 @@
 Oto przepisy na niektóre z naszych potraw, mamy nadzieję, że skorzystasz! Niestety nie możemy podać Ci wszystkich przepisów, ponieważ są chronione przez naszego szefa kuchni!
 
 ## Mizeria
+<img src = "restauracja-img/Polish Cucumber Salad {Mizeria} - The Jam Jar Kitchen.jpg" width = 200>
+
 Składniki:
 
 1. 2 duże ogórki
@@ -20,6 +22,8 @@ Odstawić na około 10-15 minut, aby smaki się przegryzły.
 Przed podaniem posypać świeżym koperkiem, jeśli używamy.
 
 ## Kluski Śląskie
+<img src = "restauracja-img/Kluski śląskie.jpg" width = 200>
+
 Składniki:
 
 1. 1 kg ziemniaków
@@ -35,6 +39,8 @@ Z ciasta formować małe kulki wielkości orzecha włoskiego i każdą spłaszcz
 Kluski gotować w dużej ilości osolonej wody, aż wypłyną na powierzchnię (około 3-4 minut). Wyjmować łyżką cedzakową.
 
 ## Leczo
+<img src = "restauracja-img/Leczo - Najlepszy Klasyczny Przepis.jpg" width = 200>
+
 Składniki:
 
 1. 2 czerwone papryki
