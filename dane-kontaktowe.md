@@ -1,4 +1,13 @@
 # Kontakt
 
+## Numer telefonu:
++48 717 717 717
 
-treść
+## Adres e-mail:
+kuchniapolska@gmail.com
+
+## Godziny otwarcia
+Od poniedziałku do Niedzieli - Od 10 do 23
+
+## Adres:
+ul. Stojałowskiego 44 Bielsko - Biała
