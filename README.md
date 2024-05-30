@@ -1,2 +1,2 @@
 # KuchniaPolska
-Ten plik należy do gałęzi main
+To strona KuchniPolskiej
